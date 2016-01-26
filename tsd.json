@@ -1,0 +1,78 @@
+{
+    "version": "v4",
+    "repo": "borisyankov/DefinitelyTyped",
+    "ref": "master",
+    "path": "tools/typings/tsd",
+    "bundle": "tools/typings/tsd/tsd.d.ts",
+    "installed": {
+        "systemjs/systemjs.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "node/node.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "gulp/gulp.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "q/Q.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "orchestrator/orchestrator.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "gulp-shell/gulp-shell.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "mime/mime.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "express/express.d.ts": {
+            "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+        },
+        "mongodb/mongodb.d.ts": {
+            "commit": "fc341765ebbb04b7109981a25dced01f488f4d94"
+        },
+        "serve-static/serve-static.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "glob/glob.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "minimatch/minimatch.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "async/async.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "gulp-typescript/gulp-typescript.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "gulp-sourcemaps/gulp-sourcemaps.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "vinyl/vinyl.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "gulp-tslint/gulp-tslint.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "run-sequence/run-sequence.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "yargs/yargs.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "body-parser/body-parser.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "jasmine/jasmine.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "es6-shim/es6-shim.d.ts": {
+            "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+        },
+        "d3/d3.d.ts": {
+            "commit": "35989a3ab4834b8e8b2b56788f1d4fc46a25dc8d"
+        }
+    }
+}

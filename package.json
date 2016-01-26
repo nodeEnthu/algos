@@ -1,0 +1,72 @@
+{
+    "name": "angular2-minimalist-starter",
+    "version": "0.0.0",
+    "description": "A Minimalist Starter kit for Angular2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rogerpadilla/angular2-minimalist-starter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/rogerpadilla/angular2-minimalist-starter/issues"
+    },
+    "scripts": {
+        "postinstall": "tsd reinstall --clean && tsd link && tsd rebundle && gulp postinstall",
+        "start": "gulp serve --env dev",
+        "test": "gulp test"
+    },
+    "author": "Roger Padilla <rogerpadilla>",
+    "license": "MIT",
+    "devDependencies": {
+        "connect-livereload": "^0.5.4",
+        "del": "^2.2.0",
+        "gulp": "^3.9.0",
+        "gulp-concat": "^2.6.0",
+        "gulp-inject": "^3.0.0",
+        "gulp-inline-ng2-template": "^0.0.10",
+        "gulp-nodemon": "^2.0.6",
+        "gulp-plumber": "^1.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-shell": "^0.5.1",
+        "gulp-sourcemaps": "^1.6.0",
+        "gulp-template": "^3.1.0",
+        "gulp-tslint": "^4.2.2",
+        "gulp-tslint-stylish": "^1.1.1",
+        "gulp-typescript": "^2.10.0",
+        "gulp-uglify": "^1.5.1",
+        "gulp-watch": "^4.3.5",
+        "jasmine": "^2.4.1",
+        "jasmine-core": "^2.4.1",
+        "karma": "^0.13.19",
+        "karma-chrome-launcher": "^0.2.2",
+        "karma-jasmine": "^0.3.6",
+        "karma-mocha-reporter": "^1.1.5",
+        "karma-phantomjs2-launcher": "^0.4.0",
+        "karma-source-map-support": "^1.1.0",
+        "open": "^0.0.5",
+        "run-sequence": "^1.1.5",
+        "tiny-lr": "^0.2.1",
+        "ts-node": "^0.5.5",
+        "tsd": "^0.6.5",
+        "tslint": "^3.2.1",
+        "typescript": "^1.7.5",
+        "typescript-register": "^1.1.0",
+        "yargs": "^3.31.0"
+    },
+    "dependencies": {
+        "angular2": "2.0.0-beta.1",
+        "body-parser": "^1.14.2",
+        "bootstrap": "^3.3.6",
+        "es6-promise": "^3.0.2",
+        "es6-shim": "^0.33.3",
+        "express": "^4.13.3",
+        "reflect-metadata": "0.1.2",
+        "rxjs": "5.0.0-beta.0",
+        "systemjs": "^0.19.14",
+        "zone.js": "0.5.10",
+        "mongodb": "~2.1.3",
+        "d3": "3.5.12"
+    },
+    "engines": {
+        "node": ">= 4.2.1 < 5"
+    }
+}
