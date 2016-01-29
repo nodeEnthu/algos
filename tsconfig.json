@@ -55,6 +55,7 @@
         "client/services/name_list.ts",
         "client/services/paths/path.ts",
         "client/services/renderGraphPath/renderGraphPath.ts",
+        "client/services/unionFindTree/unionFindTree.ts",
         "client/services/vertex/vertex.ts",
         "client/services/weighedQuickUnion/weighedQuickUnion.ts",
         "server/bootstrap.ts",
